@@ -32,7 +32,7 @@ for singleitem in content:
 	except urllib2.URLError:
 		print ""
 
-output = open("details.csv", "a")
+output = open("urls.csv", "a")
 output.write( "\"Name\";\"Phone\";\"Email\"\n" )
 	
 n = 0
