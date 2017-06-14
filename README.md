@@ -1,7 +1,7 @@
 # SNM-Email-Crawler
 A Crawler That Collects Emails From A List of URLs and Saves Them In A CSV File.
 
-  If you face any problem, then visit our site https://serviceandmaintenance.net or send us a email at shabujmona@gmail.com.
+  If you face any problem, then visit our site https://serviceandmaintenance.net or send us a email at shabujmona@gmail.com or info@serviceandmaintenance.net.
   
 
   
